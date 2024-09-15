@@ -100,11 +100,8 @@ p {
     text-align: center;
   }
   .primary-link {
-    display: block;
     text-align: center;
-  }
-  .d-none {
-    display: none;
+    display: block;
   }
 }
 @media (min-width: 576px) {
